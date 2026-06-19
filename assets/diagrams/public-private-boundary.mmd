@@ -1,0 +1,11 @@
+flowchart TB
+  P["Public GitHub Surface"] --> P1["README, status, visuals, workflow diagrams"]
+  P --> P2["WordPress draft and ownership policies"]
+  P --> P3["Project story and commercial contact path"]
+  R["Protected ListenUp Engine"] --> R1["Source code and prompts"]
+  R --> R2["Credentials, deployment, logs, backups"]
+  R --> R3["User data, sessions, transcripts, billing records"]
+  U["FaithCheltenham.com"] --> P
+  P -. "describes, does not expose" .-> R
+  R -. "private deployment path" .-> O["Oceanic / production operations"]
+

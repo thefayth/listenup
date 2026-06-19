@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 640" role="img" aria-label="ListenUp public private boundary">
+  <rect width="1180" height="640" fill="#f6f8fb"/>
+  <text x="70" y="72" fill="#101828" font-family="Arial, sans-serif" font-size="34" font-weight="800">Public Surface / Private Engine</text>
+  <text x="70" y="112" fill="#667085" font-family="Arial, sans-serif" font-size="18">The repository explains ListenUp without exposing source, secrets, users, or infrastructure.</text>
+  <rect x="80" y="170" width="455" height="320" rx="24" fill="#ffffff" stroke="#d9e1ec"/>
+  <text x="120" y="225" fill="#2454ff" font-family="Arial, sans-serif" font-size="26" font-weight="800">Public GitHub Surface</text>
+  <text x="120" y="270" fill="#101828" font-family="Arial, sans-serif" font-size="19">README, visuals, workflow diagrams</text>
+  <text x="120" y="310" fill="#101828" font-family="Arial, sans-serif" font-size="19">Status, roadmap, WordPress draft</text>
+  <text x="120" y="350" fill="#101828" font-family="Arial, sans-serif" font-size="19">Ownership and commercial policy</text>
+  <text x="120" y="390" fill="#101828" font-family="Arial, sans-serif" font-size="19">Public-safe screenshots</text>
+  <rect x="645" y="170" width="455" height="320" rx="24" fill="#101828"/>
+  <text x="685" y="225" fill="#ffffff" font-family="Arial, sans-serif" font-size="26" font-weight="800">Protected Private Engine</text>
+  <text x="685" y="270" fill="#ffffff" font-family="Arial, sans-serif" font-size="19">Source code, prompts, agents</text>
+  <text x="685" y="310" fill="#ffffff" font-family="Arial, sans-serif" font-size="19">Credentials, data, logs, backups</text>
+  <text x="685" y="350" fill="#ffffff" font-family="Arial, sans-serif" font-size="19">Deployment and infrastructure</text>
+  <text x="685" y="390" fill="#ffffff" font-family="Arial, sans-serif" font-size="19">Customer/user transcripts and billing</text>
+  <path d="M535 330 H645" stroke="#c77900" stroke-width="5" stroke-dasharray="12 10"/>
+  <text x="492" y="535" fill="#667085" font-family="Arial, sans-serif" font-size="18">Public materials describe the product; they do not grant access, license, or operational control.</text>
+</svg>
+

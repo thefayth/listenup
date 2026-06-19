@@ -1,0 +1,17 @@
+flowchart LR
+  A["User with owned media or captions"] --> B["ListenUp Studio Console"]
+  B --> C{"Intake"}
+  C --> D["Upload media"]
+  C --> E["Direct media URL"]
+  C --> F["Paste captions"]
+  D --> G["Safety checks and signed-in processing"]
+  E --> G
+  F --> H["Caption cleanup"]
+  G --> I["Editable transcript"]
+  H --> I
+  I --> J["Search and review"]
+  I --> K["Save transcript history"]
+  I --> L["Export TXT / SRT / VTT"]
+  K --> M["Account workflow"]
+  L --> N["Creator, media, research, and operations output"]
+
