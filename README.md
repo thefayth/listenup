@@ -46,9 +46,12 @@ private source, or an unmetered model endpoint.
 
 - [Try the interactive showcase](https://listenup-buildweek.indigo-iris-5804.chatgpt.site)
 - [Watch or download the narrated demo](https://github.com/thefayth/listenup/releases/tag/build-week-2026-demo)
+- [Review and run the public contest code](contest-demo/README.md)
 
 The contest work adds a typed GPT-5.6 Transcript Brief for summaries, themes,
 actions, quotes, chapters, follow-up questions, and plain-language output.
+The `contest-demo/` folder publishes the complete interactive sample and a
+narrow GPT-5.6 structured-output reference while preserving the private engine.
 
 ## Visual Gallery
 
