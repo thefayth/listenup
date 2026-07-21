@@ -37,6 +37,19 @@ Public here means project story, status, visuals, workflow diagrams, ownership l
 
 ListenUp is locally launch-ready as a product surface. The private app has passed local lint, typecheck, build, runtime smoke, and visual QA checks. Oceanic deployment and live billing activation remain private operational work.
 
+## OpenAI Build Week 2026
+
+ListenUp now has a public interactive contest showcase and a narrated
+two-minute product tour. The showcase demonstrates the synthetic judge sample
+and the structured Transcript Brief without exposing user data, credentials,
+private source, or an unmetered model endpoint.
+
+- [Try the interactive showcase](https://listenup-buildweek.indigo-iris-5804.chatgpt.site)
+- [Watch or download the narrated demo](https://github.com/thefayth/listenup/releases/tag/build-week-2026-demo)
+
+The contest work adds a typed GPT-5.6 Transcript Brief for summaries, themes,
+actions, quotes, chapters, follow-up questions, and plain-language output.
+
 ## Visual Gallery
 
 ## Canva Launch Graphic
@@ -66,3 +79,4 @@ All rights reserved. No source release is granted by this repository. No public 
 - Public/private boundary: [docs/PUBLIC_PRIVATE_BOUNDARY.md](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - Canva asset plan: [docs/CANVA_ASSET_PLAN.md](docs/CANVA_ASSET_PLAN.md)
 - WordPress draft: [wordpress/page.md](wordpress/page.md)
+- Build Week demo: [build-week-2026-demo release](https://github.com/thefayth/listenup/releases/tag/build-week-2026-demo)

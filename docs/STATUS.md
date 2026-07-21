@@ -20,3 +20,14 @@ ListenUp is local-production ready in the private workspace. The app has passed 
 ## Deployment Status
 
 Oceanic deployment is not part of this public repository. Production domain, server credentials, secret destinations, and deployment receipts remain private operational work.
+
+## 2026-07-21 Build Week Public Surface
+
+- Interactive showcase:
+  https://listenup-buildweek.indigo-iris-5804.chatgpt.site
+- Narrated 136-second demo release:
+  https://github.com/thefayth/listenup/releases/tag/build-week-2026-demo
+- Private app verification: lint, typecheck, production build, route smoke, and
+  desktop/mobile visual QA passed before public-surface publication.
+- The public repository remains a protected product surface. App source,
+  secrets, databases, users, and production operations remain private.
