@@ -45,6 +45,7 @@ the demo remains usable when a model project has no quota.
 
 ## Ownership
 
-Copyright 2026 Faith Cheltenham. All rights reserved. Publication for contest
-review does not grant redistribution, training, commercial use, or derivative
-work rights.
+Copyright 2026 Faith Cheltenham. The root evaluation license permits judges and
+personal testers to clone and run this public demo. It does not grant
+redistribution, training, commercial use, derivative work, or production
+deployment rights.

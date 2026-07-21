@@ -2,9 +2,19 @@
 
 Copyright (c) 2026 Faith Cheltenham / The Fayth.
 
-All rights reserved.
+All rights reserved except for the limited evaluation permission below.
 
-This repository does not grant a public source license. No permission is granted to copy, redistribute, sublicense, sell, train models on, commercially reuse, reverse engineer, or create derivative works from ListenUp materials except where Faith Cheltenham gives explicit written permission.
+Permission is granted to view, clone, and run the files in this public
+repository solely for OpenAI Build Week judging, product evaluation, and
+personal noncommercial testing. This is a source-available evaluation license,
+not an open-source license.
 
-The presence of public project materials in this repository does not imply open-source release, operational access, data access, deployment permission, API permission, or commercial reuse permission.
+No permission is granted to redistribute, sublicense, sell, publish a fork,
+train models on, commercially reuse, reverse engineer private systems, create
+derivative works, operate a competing service, or deploy these materials to
+production without Faith Cheltenham's explicit written permission.
 
+The presence of public project materials does not imply access to the private
+application source, prompts, credentials, user data, deployment systems,
+infrastructure, APIs, or commercial rights. All permissions not stated here
+are reserved.

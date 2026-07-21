@@ -72,7 +72,11 @@ The launch social graphic is available as a Canva-ready design for resizing into
 
 ListenUp is created and owned by Faith Cheltenham / The Fayth.
 
-All rights reserved. No source release is granted by this repository. No public license, redistribution, training, commercial reuse, or implied permission is granted.
+The public contest demo may be viewed, cloned, and run for judging, evaluation,
+and personal noncommercial testing under [LICENSE.md](LICENSE.md). It is not an
+open-source release. No redistribution, model training, commercial reuse,
+derivative work, production deployment, or implied access to the private app is
+granted.
 
 ## Learn More
 
